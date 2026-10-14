@@ -32,7 +32,17 @@ SiVIA (Sistem Pengaduan Layanan Warga) — Web aplikasi pengaduan masyarakat ber
   * Custom CSS3 (Flexbox, CSS Variables, SVG Gradients)
   * Bootstrap Icons v1.11.1
 * **Font**: Inter (Google Fonts)
-* **Local Server Environment**: Laragon 
+* **Local Server Environment**: Laragon
+
+## 🔑 Akun Demo / Testing Login
+
+Untuk mencoba berbagai hak akses (*role*) di dalam aplikasi, gunakan kredensial bawaan berikut:
+
+| Peran (Role) | Username / NIK | Password | Akses & Fitur |
+| :--- | :--- | :--- | :--- |
+| **Admin** | `2222222222222222` | `123` | Verifikasi laporan, kelola pengguna, cetak rekap |
+| **Warga** | `1111111111111111` | `123` | Buat laporan baru, lihat riwayat pengaduan |
+| **Teknisi** | `3333333333333333` | `123` | Lihat daftar tugas perbaikan |
 
 ---
 
