@@ -32,7 +32,7 @@ SiVIA (Sistem Pengaduan Layanan Warga) — Web aplikasi pengaduan masyarakat ber
   * Custom CSS3 (Flexbox, CSS Variables, SVG Gradients)
   * Bootstrap Icons v1.11.1
 * **Font**: Inter (Google Fonts)
-* **Local Server Environment**: Laragon / XAMPP
+* **Local Server Environment**: Laragon 
 
 ---
 
