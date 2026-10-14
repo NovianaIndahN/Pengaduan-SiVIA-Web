@@ -25,7 +25,7 @@ SiVIA (Sistem Pengaduan Layanan Warga) — Web aplikasi pengaduan masyarakat ber
 
 ## Teknologi yang Digunakan
 
-* **Bahasa Pemrograman**: PHP 8.x
+* **Bahasa Pemrograman**: PHP 8.1
 * **Database**: MySQL / MariaDB
 * **Styling & Framework UI**: 
   * Bootstrap 5.3
